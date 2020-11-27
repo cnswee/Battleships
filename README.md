@@ -1,1 +1,1 @@
-It's a easy battleships game.
+It's a easy battleship game.
